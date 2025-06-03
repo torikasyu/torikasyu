@@ -12,7 +12,7 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,csharp,sql" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,typescript,cs,sql" /> <br /><br />
 
 ## Frameworks and Library
 
@@ -20,6 +20,7 @@
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=,mssql,mysql,docker,git,github,vscode,linux,azure" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=mssql,electron,git,github,vscode,linux,azure" /> <br /><br />
 
 ## ⚡ Fun facts
+
