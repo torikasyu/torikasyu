@@ -24,7 +24,7 @@
 
 ## My Projects
 
-### 十年スナップ
+### **iOSアプリ** 十年スナップ
 
 React Native(Expo)で作成したiOS用の10年日記アプリです。「過去の同じ日に何をしていたか」を簡単に振り返ることができます。
 
@@ -37,7 +37,7 @@ React Native(Expo)で作成したiOS用の10年日記アプリです。「過去
 
 [Blog](https://torikasyu.com/?p=2215)
 
-### CoPiPe-Share
+### **デスクトップアプリ** CoPiPe-Share
 
 Electronで作成したmacOS用の画像共有アプリです。画像をコピペすることでAzure Blob Storageにアップロードし、共有用のURLを取得できます。
 
@@ -50,7 +50,7 @@ Electronで作成したmacOS用の画像共有アプリです。画像をコピ�
 
 [Download](https://github.com/torikasyu/CoPiPe-Share/releases)
 
-### Electron + React + TypeScriptで作るデスクトップアプリ
+### **書籍** Electron + React + TypeScriptで作るデスクトップアプリ
 
 ElectronとReact + TypeScriptを使ってデスクトップアプリを作るための入門書です。基本的な環境設定から始まり、IPCによるコンテキスト分離やテスト・ビルド・CD/CIなどElectronアプリを作る上での基本的な知識を得ることができます。
 
