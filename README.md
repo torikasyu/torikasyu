@@ -57,3 +57,9 @@ ElectronとReact + TypeScriptを使ってデスクトップアプリを作るた
 [Amazon](https://www.amazon.co.jp/dp/B0FBK1NZP4/)
 
 [GitHub](https://github.com/torikasyu/electron-book-samples)
+
+### **リポジトリ** 「Node.js + TypeScript クリーンアーキテクチャAPIテンプレート」
+
+AIコーディングをする際に、AIに対して設計を指定するためのプロジェクトです。README.mdだけを使って、AIに対してこの構造でプロジェクトを作成して、というと幸せになれる気がします。
+
+[GitHub](https://github.com/torikasyu/server-clean-architecture-template)
