@@ -37,6 +37,8 @@ React Native(Expo)で作成したiOS用の10年日記アプリです。「過去
 
 [Blog](https://torikasyu.com/?p=2215)
 
+---
+
 ### **デスクトップアプリ** 「CoPiPe-Share」
 
 Electronで作成したmacOS用の画像共有アプリです。画像をコピペすることでAzure Blob Storageにアップロードし、共有用のURLを取得できます。
@@ -50,6 +52,8 @@ Electronで作成したmacOS用の画像共有アプリです。画像をコピ�
 
 [Download](https://github.com/torikasyu/CoPiPe-Share/releases)
 
+---
+
 ### **書籍** 「Electron + React + TypeScriptで作るデスクトップアプリ」
 
 ElectronとReact + TypeScriptを使ってデスクトップアプリを作るための入門書です。基本的な環境設定から始まり、IPCによるコンテキスト分離やテスト・ビルド・CD/CIなどElectronアプリを作る上での基本的な知識を得ることができます。
@@ -57,6 +61,8 @@ ElectronとReact + TypeScriptを使ってデスクトップアプリを作るた
 [Amazon](https://www.amazon.co.jp/dp/B0FBK1NZP4/)
 
 [GitHub](https://github.com/torikasyu/electron-book-samples)
+
+---
 
 ### **リポジトリ** 「Node.js + TypeScript クリーンアーキテクチャAPIテンプレート」
 
